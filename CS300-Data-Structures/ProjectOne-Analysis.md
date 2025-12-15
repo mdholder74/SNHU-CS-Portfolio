@@ -2,7 +2,7 @@
 ## ABCU Advising Program
 
 **Course:** CS 300 - Data Structures and Algorithms  
-**Student:** Mo  
+**Student:** Moe  
 **Date:** December 2025
 
 ---
